@@ -4,6 +4,8 @@ A collection of tools that can be useful to developers.
 The current supported tools are:
 - Character Counter
 - SHA-Family Algorithms Online
+- Codice Fiscale (Italian Tax Code) Generator
+- Full website color customization!
 
 The tools that are yet to be implemented are:
 - AES-Family Algorithms Online
@@ -18,3 +20,4 @@ The tools that are yet to be implemented are:
 - Hex Color Picker
 - Suggestion-Based Password Generator
 - IEEE-754 Converter
+- IP checker
